@@ -1,0 +1,108 @@
+body{
+    
+    box-sizing: border-box;
+}
+
+
+/*ID'S*/
+#boton_card{
+    background-color: rgb(142, 233, 233);
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+#col{
+    width: 20%;
+    size: 20%;
+}
+#div_carta{
+    margin: 5% auto;
+}
+#footerRedes{
+    background-color: #a5a5a5;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#container_porta {
+    background-color:rgb(142, 233, 233);
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+#container_porta h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+#contactame h1{
+    margin-left: 1rem;
+    font-family:'Poppins', sans-serif; 
+    text-align: center;
+    justify-content: center;
+}
+
+
+/*CLASES*/
+
+.formulario{
+    width: 100%;
+}
+.span{
+    color: red;
+    font-weight: bolder;
+}
+
+.btn-primary{
+    font-family: 'Poppins', sans-serif;
+    background-color:#10dada;
+    border-color: #10dada;
+    color: black;
+    justify-content: center;
+    text-align: center;
+}
+.btn-primary:hover{
+    font-family: 'Poppins', sans-serif;
+    background-color:#10dada;
+    border-color: #10dada;
+    color: black;
+}
+
+.btn{
+    font-family: 'Poppins', sans-serif;
+    background-color:#10dada;
+    border-color: #10dada;
+    color: black;
+}
+
+.content_contactame{
+    margin: 0px auto;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.content_contactame span{
+    color: red
+    
+}
+
+.card div {
+    margin: 0px auto;    
+
+}
+.card-body{
+    justify-content: center !important;
+    text-align: center;
+}
+
+.text-primary{
+    font-family: 'Poppins', sans-serif;
+    color: #10dada !important ;  
+}
+.form-label{
+    justify-content: center;
+}
+
+.contenedor-icono svg{
+    color: black  ; 
+}
