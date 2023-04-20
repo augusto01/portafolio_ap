@@ -26,15 +26,19 @@ body{
 #container_porta {
     background-color:rgb(142, 233, 233);
     font-family: 'Poppins', sans-serif;
+    padding: 2%;
     
 }
 
 #container_porta h1{
     font-family: 'Poppins', sans-serif;
 }
+#contactame {
+    margin: 0 auto ;
 
+}
 #contactame h1{
-    margin-left: 1rem;
+   
     font-family:'Poppins', sans-serif; 
     text-align: center;
     justify-content: center;
@@ -45,6 +49,8 @@ body{
 
 .formulario{
     width: 100%;
+    margin: 0 auto;
+    
 }
 .span{
     color: red;
@@ -74,11 +80,12 @@ body{
 }
 
 .content_contactame{
+    width: 70%;
+    background-color :rgb(142, 233, 233);
     margin: 0px auto;
     justify-content: center;
     display: flex;
-    justify-content: center;
-
+   
 }
 
 .content_contactame span{
