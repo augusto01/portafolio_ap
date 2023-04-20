@@ -10,7 +10,9 @@ body{
     color: black;
     font-family: 'Poppins', sans-serif;
 }
-
+#boton_consulta{
+    color: gray !important;
+}
 #col{
     width: 20%;
     size: 20%;
